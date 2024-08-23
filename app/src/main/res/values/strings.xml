@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TestFirestore</string>
+
+    <!--    halaman login text-->
+    <string name="opening">Silahkan Login</string>
+    <string name="ID">username</string>
+    <string name="Pass">password</string>
+    <string name="login">Masuk</string>
+
+
+    <!--    input data-->
+    <string name="nama">Nama</string>
+    <string name="noHp">Nomor Handphone</string>
+    <string name="ttl">Tanggal Lahir</string>
+    <string name="JK">Jenis Kelamin</string>
+    <string name="quote">Kata-Kata Hari Ini</string>
+    <!--    firebase-->
+    <string name="your_web_client_id">1054048360829-1bmd53579u51hsp9n2o7bqivr0vf9hnu.apps.googleusercontent.com</string>
+    <string name="laki_laki">Laki-Laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="submit">Submit</string>
+    <string name="isi_nama">Isi Nama</string>
+    <string name="namaTv">Nama :</string>
+    <string name="isi_quote">Isi Quote</string>
+    <string name="quotenote">Quote :</string>
+    <string name="ambil_database">ambil database</string>
+    <string name="edit">Edit</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ThemeOverlay.AppCompat.Dialog" parent="@style/Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">@color/blue_500</item>
+        <item name="android:buttonBarPositiveButtonStyle">@style/DialogButtonStyled</item>
+        <item name="android:buttonBarNegativeButtonStyle">@style/DialogButtonStyled</item>
+    </style>
+    <style name="DialogButtonStyled" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:textColor">@color/black</item> <!-- button text color -->
+    </style>
+
+<!--    &lt;!&ndash; Tema untuk DatePickerDialog &ndash;&gt;-->
+<!--    <style name="DialogTheme" parent="Theme.AppCompat.Light.Dialog">-->
+<!--        &lt;!&ndash; Background dialog &ndash;&gt;-->
+<!--&lt;!&ndash;        <item name="android:background">#FFFFFF</item>&ndash;&gt;-->
+<!--        &lt;!&ndash; Warna primary dari dialog &ndash;&gt;-->
+<!--        <item name="colorAccent">#2196F3</item>-->
+<!--        &lt;!&ndash; Warna teks &ndash;&gt;-->
+<!--        <item name="android:textColorPrimary">#000000</item>-->
+<!--        <item name="android:textColorSecondary">#757575</item>-->
+<!--    </style>-->
+
+<!--    <style name="DialogButtonStyled" parent="Theme.MaterialComponents.Light">-->
+<!--        <item name="android:textColor">@color/black</item>-->
+<!--    </style>-->
+
+<!--    &lt;!&ndash; Tema untuk DatePicker &ndash;&gt;-->
+<!--    <style name="CustomDatePicker" parent="ThemeOverlay.AppCompat">-->
+<!--        &lt;!&ndash; Warna tombol &ndash;&gt;-->
+<!--        <item name="colorAccent">#2196F3</item>-->
+<!--        &lt;!&ndash; Warna teks dari tahun, bulan, dan hari &ndash;&gt;-->
+<!--        <item name="android:textColorPrimary">#000000</item>-->
+<!--        <item name="android:textColorSecondary">#757575</item>-->
+<!--    </style>-->
+
+</resources>
